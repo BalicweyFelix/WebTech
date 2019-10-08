@@ -1,26 +1,46 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-	<title>RESUME</title>
-	<meta charset="UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>RESUME</title> 
 </head>
 <body>
-	<h1>Balicwey, Felix A.</h1>
+<br/>
+<img src="https://api.edmodo.com/users/144602944/avatar?type=large&u=6trejkuap0d0lzjiw9pfsj9db">
+<h1>Balicwey, Felix A.</h1>
 	<h5>PERSONAL INFORMATION</h5>
 	<h5>Address: Tabio, Mankayan, Benguet</h5>
 	<h5>Email: EriosBlue0119@gmail.com</h5>
 	<h5>Contact #: 09096773645</h5>
-	<br>
-	<h4>Objective</h4>
-	<p>1. Experienced Web Developer seeking opportunity to bring knowledge of programming, 
-	design, and media to a position with your Company.</p>
-	<p>2. Searching for a Web Developer position with your Company that prioritizes graphical 
-	design and compatibility among media while encouraging creative thinking and problem solving.</p>
-	<p>3. Self-motivated Web Development professional with 4+ years of experience looking for 
-	programming work with your Company utilizing unmatched computer science abilities.</p>
-	<p>4. Proactive individual desiring to transfer 10 years experience programming, designing 
-	media, and servicing clients to a Web Development position with your Company.</p>
-	<p>5. Seeking Web Developer work at your Company that allows for implementation of communication, 
-	service, and design skills to the programming essentials.</p>	
+	<br/>
+	<h2>Job Objective</h2>
+	<ul><li>Desire to obtain an entry-level web developer position at your company. Comes with an BSIT degree major in web technoly.</li></ul>
+	<ul><li>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.</ul></li>
+	<ul><li>A highly organized and hard-working individual looking for a responsible position to gain practical experience.</ul></li>
+	<ul><li>To make use of my interpersonal skills to achieve goals of a company that focuses on customer satisfaction and customer experience.</ul></li>
+<br/>
+<h2>Education</h2>
+<ul><li>Course:Bachelor of Science in Information Technology major in Website Technology</ul></li>
+<p>School:<a href="http://www.uc-bcf.edu.ph/">University of the Cordilleras</a></p>
+<br/>
+<ul><li>Strand:Science Technolgy Engineering and Mathematics</ul></li>
+<p>School:Mankayan National High School</p>
+<br/>
+<h2>Job Experience</h2>
+<ul>
+<li>
+	Tailoring - L-Bals Tailoring Shop	
+</li>
+</ul>
+<ul>
+<li>
+	Helper/Dilivery Boy - Winky's Bakery	
+</li>
+</ul>
+<ul>
+<li>
+	Construction	
+</li>
+</ul>
 </body>
 </html>
